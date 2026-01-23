@@ -111,6 +111,7 @@ Name    |    Description
 [BlackArch](https://blackarch.org/index.html) | Arch Linux-based pentesting distro, compatible with Arch installs
 [LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
 
+[NullSec Linux](https://github.com/bad-antics/nullsec-linux) | Security-focused distro with automotive hacking, forensics, and advanced pentesting tools
 
 ## Courses
 
