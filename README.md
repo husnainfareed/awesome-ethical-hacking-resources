@@ -2,6 +2,7 @@
 
 What I’m sharing here is a collection of some best resources about Hacking & Penetration Testing to make you learn faster! Let's make it the best resource repository for our community.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including ethical hacking assistance, vulnerability scanning, and automated security testing. MIT licensed.
 ## Contents
 
 - [Books](#books)
