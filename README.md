@@ -64,6 +64,7 @@ Name  |  Description
 Name  |  Description
 ----  |  ----
 [Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) | Docker Container including several vulnerable web applications (DVWA, DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II and more)
+[OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) | An intentionally vulnerable e-commerce app built with Next.js for web security training (OWASP Top 10, API security, CTF challenges). Quick start with `npx create-oss-store`.
 [OWASP Vulnerable Web Applications Directory Project (Offline)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Off-Line_apps) | List of offline available vulnerable applications for learning purposes
 
 
