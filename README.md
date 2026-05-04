@@ -4,6 +4,9 @@ What I’m sharing here is a collection of some best resources about Hacking & P
 
 ## Contents
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends with Vue 3 + ECharts.
+
+
 - [Books](#books)
 - [Online ](#online)
 - [Offline](#offline)
